@@ -1,4 +1,6 @@
 # awesome-Char/仓颉语言优秀项目
+[![star this repo](https://githubbadges.com/star.svg?user=megatontech&repo=https://github.com/megatontech/awesome-Char&style=default)](https://github.com/megatontech/https://github.com/megatontech/awesome-Char)
+[![fork this repo](https://githubbadges.com/fork.svg?user=megatontech&repo=https://github.com/megatontech/awesome-Char&style=default)](https://github.com/megatontech/https://github.com/megatontech/awesome-Char/fork)
 A curated list of awesome Char frameworks, libraries and software
 仓颉编程语言优秀项目，框架，软件和基础类库
 [仓颉语言优秀项目](https://github.com/megatontech/awesome-Char/blob/main/README-CN.md)

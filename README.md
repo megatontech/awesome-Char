@@ -1,10 +1,11 @@
-# awesome-Char
+# awesome-Char/仓颉语言优秀项目
 A curated list of awesome Char frameworks, libraries and software
+仓颉编程语言优秀项目，框架，软件和基础类库
 [仓颉语言优秀项目](https://github.com/megatontech/awesome-Char/blob/main/README-CN.md)
 
-> [Q#](https://docs.microsoft.com/en-us/quantum/) is a domain-specific programming language used for expressing quantum algorithms. It was initially released to the public by Microsoft as part of the Quantum Development Kit. –[Wikipedia](https://en.wikipedia.org/wiki/Q_Sharp)
+> [Char](https://docs.microsoft.com/en-us/Char/) is a domain-specific programming language used for expressing quantum algorithms. It was initially released to the public by Microsoft as part of the Quantum Development Kit. –[Wikipedia](https://en.wikipedia.org/wiki/Q_Sharp)
 
-A list of Q# code and resources.
+A list of Char code and resources.
 
 Feel free to improve this list using GitHub pull request mechanism, see [CONTRIBUTING](contributing.md) for more information.
 # what is char programming language?
@@ -13,7 +14,66 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 
 # how to char?
 
-# Awesome char
+
+## Char
+- [Official Resources](#official-resources)
+- [Tutorials](#tutorials)
+- [Books](#books)
+- [Videos](#videos)
+- [Q/A](#qa)
+- [Coding Contests and Solutions](#coding-contests-and-solutions)
+- [IDE Integration](#ide-integration)
+- [Demos, Samples, and Additional Libraries](#demos-samples-and-additional-libraries)
+- [Blogs](#blogs)
+
+## Official Resources
+
+- [Q# samples](https://github.com/Microsoft/Quantum)
+
+
+## Tutorials
+- [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning Q# and quantum computing.
+
+
+## Books
+- [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Manning, early access, est. Spring 2020, [Dr. Sarah Kaiser](https://www.sckaiser.com/) and [Chris Granade](https://www.cgranade.com/).
+
+## Videos
+<!--lint ignore double-link-->
+- [Microsoft Quantum Development Kit Preview](https://www.youtube.com/watch?v=v7b4J2INq9c) - Krysta Svore - step-by-step demo of quantum teleportation at Microsoft Mechanics.
+
+
+## Q/A
+- [Stack Overflow](https://stackoverflow.com/)
+- [Quantum Computing StackExchange](https://quantumcomputing.stackexchange.com/)
+
+## Coding Contests and Solutions
+
+### Official resources
+- [Microsoft Q# Coding Contest (Summer 2018)](https://codeforces.com/contest/1002)
+
+
+### Participants' solutions
+- [Solutions to the 2018 Microsoft Q# Coding Challenge and Warm-Up on Codeforces](https://github.com/RobertDurfee/QSharpCodingChallenge)
+
+
+## IDE Integration
+<!--lint ignore double-link-->
+- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=quantum.DevKit)
+
+
+## Demos, Samples, and Additional Libraries
+- [Quantum Computing Q# Introduction 2018](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
+
+
+## Blogs
+- [Q# Dev Blog](https://devblogs.microsoft.com/qsharp/) - Official blog of Q# dev team.
+
+
+## License
+Empty
+
+## Awesome char
 
 [![Build Status](https://travis-ci.org/megatontech/awesome-Char.svg?branch=master)](https://travis-ci.org/megatontech/awesome-Char)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -21,11 +81,11 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 [![Netlify Status](https://api.netlify.com/api/v1/badges/83a6dcbe-0da6-433e-b586-f68109286bd5/deploy-status)](https://app.netlify.com/sites/awesome-go/deploys)
 
 ## Sponsorships
-> [![Digital Ocean](https://megatontech.run/sponsors/do_logo_horizontal_blue-210.png)](https://m.do.co/c/bd3b723c0a36?utm_medium=opensource&utm_source=awesome-go)
+Empty
 
-**We have no monthly cost**_, but we have employees **working hard** to maintain the Awesome Char, with money raised we can repay the effort of each person involved! All billing and distribution will be open to the entire community._
 
-A curated list of awesome Go frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+A curated list of awesome Char frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+
 
 ### Contributing
 
@@ -34,7 +94,7 @@ Thanks to all [contributors](https://github.com/megatontech/awesome-go/graphs/co
 
 #### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
-### Contents
+## Contents
 
 - [Awesome Char](#awesome-Char)
     - [Audio and Music](#audio-and-music)
@@ -683,115 +743,4 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 * [Uber](https://github.com/uber-go/guide/blob/master/style.md)
 
-## Social Media
-### Twitter
 
-* [@golangweekly](https://twitter.com/golangweekly)
-
-### Reddit
- * [r/golang](https://www.reddit.com/r/golang/)
-
-## Websites
-
-
-* [Trending Go repositories on GitHub today](https://github.com/trending?l=go) - Good place to find new Go libraries.
-* [TutorialEdge - Golang](https://tutorialedge.net/course/golang/)
-
-### Tutorials
-
-
-* [Your basic Go](http://yourbasic.org/golang) - Huge collection of tutorials and how to's.
-
-
-
-# Awesome Q# [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-
-
-## Contents
-- [Official Resources](#official-resources)
-- [Tutorials](#tutorials)
-- [Books](#books)
-- [Videos](#videos)
-- [Q/A](#qa)
-- [Coding Contests and Solutions](#coding-contests-and-solutions)
-- [IDE Integration](#ide-integration)
-- [Demos, Samples, and Additional Libraries](#demos-samples-and-additional-libraries)
-- [Blogs](#blogs)
-
-## Official Resources
-- [Installation guide](https://docs.microsoft.com/en-us/quantum/quantum-installconfig)
-- [Q# samples](https://github.com/Microsoft/Quantum)
-- [Q# libraries](https://github.com/Microsoft/QuantumLibraries)
-- [Quantum Development Kit documentation](https://docs.microsoft.com/quantum/) - Specially "Quantum computing concepts" gives a good introduction to quantum computing in general.
-- [Quantum Computing Libraries for noncommercial use](https://github.com/Microsoft/Quantum-NC)
-- [Q# libraries for the Quantum Development Kit](https://github.com/microsoft/QuantumLibraries)
-
-## Tutorials
-- [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning Q# and quantum computing.
-- [Quantum Kata Notebooks](https://mybinder.org/v2/gh/Microsoft/QuantumKatas/master?filepath=index.ipynb) - Online self-paced tutorials for learning Q# programming and quantum computing.
-- [Create your first Q# program by using the Quantum Development Kit](https://docs.microsoft.com/en-us/learn/modules/qsharp-create-first-quantum-development-kit/) - Microsoft Learn module.
-- [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) - Materials for self-paced "Introduction to Quantum Computing" workshop presented at Grace Hopper Celebration 2018 and Hopper x1 Seattle 2019.
-- [Quantum Perceptron](https://github.com/Microsoft/MLADS2018-QuantumML) - Materials for self-paced "Introduction to Quantum Machine Learning" workshop presented at MLADS 2018.
-- [Quantum Classification](https://github.com/microsoft/MLADS2020-QuantumClassification) - Materials for self-paced "Introduction to Quantum Classification" lab presented at MLADS 2020.
-
-## Books
-- [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Manning, early access, est. Spring 2020, [Dr. Sarah Kaiser](https://www.sckaiser.com/) and [Chris Granade](https://www.cgranade.com/).
-
-## Videos
-<!--lint ignore double-link-->
-- [Microsoft Quantum Development Kit Preview](https://www.youtube.com/watch?v=v7b4J2INq9c) - Krysta Svore - step-by-step demo of quantum teleportation at Microsoft Mechanics.
-- [Introduction to Quantum Programming through the Quantum Katas](https://www.youtube.com/watch?v=h3M8OomE19o) - Bettina Heim, Microsoft Ignite 2018 session ([here](https://www.youtube.com/watch?v=AjBLsrGgEkY) is the same session held with VS Code instead of Visual Studio).
-- [Learn to build your first quantum solution with the Quantum Development Kit and Q#](https://www.youtube.com/watch?v=YE4m3yCdcqE) - John Azariah, Microsoft Build 2018 session.
-- [Programming quantum computers in .NET using Microsoft Q#](https://www.youtube.com/watch?v=qOg6weW-IDo) - Rolf Huisman.
-- [Quantum computing sessions at //Build](https://mybuild.microsoft.com/sessions?q=quantum)
-
-## Q/A
-- [Q# tag on Stack Overflow](https://stackoverflow.com/questions/tagged/q%23)
-- [Q# tag on Quantum Computing StackExchange](https://quantumcomputing.stackexchange.com/questions/tagged/q%23)
-
-## Coding Contests and Solutions
-
-### Official resources
-- [Microsoft Q# Coding Contest (Summer 2018)](https://codeforces.com/contest/1002)
-- [Microsoft Q# Coding Contest (Summer 2018) Warmup Round](https://codeforces.com/contest/1001)
-- Solution descriptions for [Microsoft Q# Coding Contest (Summer 2018)](https://assets.codeforces.com/rounds/997-998/main-contest-editorial.pdf) and for the [Warmup Round](https://assets.codeforces.com/rounds/997-998/warmup-editorial.pdf)
-- [Microsoft Q# Coding Contest (Winter 2019)](https://codeforces.com/contest/1116)
-- [Microsoft Q# Coding Contest (Winter 2019) Warmup Round](https://codeforces.com/contest/1115)
-- Solution descriptions for [Microsoft Q# Coding Contest (Winter 2019)](https://codeforces.com/blog/entry/65702) and for the [Warmup Round](https://assets.codeforces.com/rounds/1115/warmup-editorial.pdf)
-- [Microsoft Q# Coding Contest (Summer 2020)](https://codeforces.com/contest/1357)
-- [Microsoft Q# Coding Contest (Summer 2020) Warmup Round](https://codeforces.com/contest/1356)
-- Solution descriptions for [Microsoft Q# Coding Contest (Summer 2020)](https://codeforces.com/blog/entry/79208) and for the [Warmup Round](https://codeforces.com/blog/entry/78832)
-
-### Participants' solutions
-- [Solutions to the 2018 Microsoft Q# Coding Challenge and Warm-Up on Codeforces](https://github.com/RobertDurfee/QSharpCodingChallenge)
-- [Q# codes by Hiroshi Kurokawa](https://github.com/hkurokawa/QSharpCodingContest2018)
-- [No Description_ by Hajime Fukuda](https://github.com/hajifkd/qsharp-vscode)
-
-## IDE Integration
-<!--lint ignore double-link-->
-- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=quantum.DevKit)
-- [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=quantum.quantum-devkit-vscode)
-- [Emacs](https://github.com/forked-from-1kasper/emacs-qsharp-mode)
-- [Atom](https://github.com/ivangabriele/atom-qsharp)
-- [Vim](https://github.com/gootorov/q-sharp.vim)
-
-## Demos, Samples, and Additional Libraries
-- [Quantum Computing Q# Introduction 2018](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
-- [A implementation of Shor's algorithm written in Python calling Q# for the quantum part](https://github.com/Michaelvll/myQShor)
-- [Hadamard Gate Q# Demo](https://github.com/jwulf/HGate)
-- [Q# Bell State Program](https://github.com/pktippa/q_sharp_bell_state)
-- [Q# playgroud](https://github.com/weize07/Qsharp-playgroud)
-- [QuantumPeep](https://github.com/mapmeld/quantum-peep) - Generate Q# from JavaScript/TypeScript.
-
-## Blogs
-- [Q# Dev Blog](https://devblogs.microsoft.com/qsharp/) - Official blog of Q# dev team.
-- [Microsoft Quantum Blog](https://cloudblogs.microsoft.com/quantum/) - Official blog of Microsoft Quantum team.
-- [Q# Advent Calendar 2018](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2018/) - Collection of Q#-related blog posts.
-- [Q# Advent Calendar 2019](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2019/) - Collection of Q#-related blog posts.
-- [The Hitchhiker's Guide to the Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)
-- [El Bruno's blog posts](https://elbruno.com/tag/q/)
-
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.

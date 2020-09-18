@@ -1,5 +1,6 @@
 # awesome-Char
 A curated list of awesome Char frameworks, libraries and software
+[仓颉语言优秀项目](https://github.com/megatontech/awesome-Char/blob/main/README-CN.md)
 
 > [Q#](https://docs.microsoft.com/en-us/quantum/) is a domain-specific programming language used for expressing quantum algorithms. It was initially released to the public by Microsoft as part of the Quantum Development Kit. –[Wikipedia](https://en.wikipedia.org/wiki/Q_Sharp)
 
